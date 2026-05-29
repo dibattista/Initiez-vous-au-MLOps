@@ -1,6 +1,9 @@
 # Data files (too large for GitHub)
 data/
 
+# Graphiques générés (artefacts du notebook)
+graphiques/*.png
+
 # Claude Code internal
 .claude/
 
