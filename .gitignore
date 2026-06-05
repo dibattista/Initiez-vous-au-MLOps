@@ -1,6 +1,10 @@
 # Data files (too large for GitHub)
 data/
 
+# MLflow artifacts (generated locally)
+mlflow.db
+mlruns/
+
 # Graphiques générés (artefacts du notebook)
 graphiques/*.png
 

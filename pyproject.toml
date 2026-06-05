@@ -20,6 +20,7 @@ shap = "^0.51.0"
 imbalanced-learn = "^0.14.1"
 missingno = "^0.5.2"
 optuna = "^4.8.0"
+protobuf = "3.20.3"
 
 
 [build-system]
